@@ -1,0 +1,5 @@
+
+.content {
+    flex: 1; /* This makes the content div expand to fill the remaining space */
+    padding: 60px; /* Add padding for spacing */
+  }
